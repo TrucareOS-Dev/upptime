@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 116,
-    "timeDay": 116,
-    "timeWeek": 116,
-    "timeMonth": 116,
-    "timeYear": 116,
+    "time": 112,
+    "timeDay": 112,
+    "timeWeek": 112,
+    "timeMonth": 112,
+    "timeYear": 112,
     "dailyMinutesDown": {}
   },
   {
@@ -46,11 +46,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 166,
-    "timeDay": 166,
-    "timeWeek": 166,
-    "timeMonth": 166,
-    "timeYear": 166,
+    "time": 174,
+    "timeDay": 174,
+    "timeWeek": 174,
+    "timeMonth": 174,
+    "timeYear": 174,
     "dailyMinutesDown": {}
   },
   {
@@ -64,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 120,
-    "timeDay": 120,
-    "timeWeek": 120,
-    "timeMonth": 120,
-    "timeYear": 120,
+    "time": 123,
+    "timeDay": 123,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 123,
     "dailyMinutesDown": {}
   },
   {
@@ -77,18 +77,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "staging-t",
     "status": "down",
-    "uptime": "99.69%",
-    "uptimeDay": "99.69%",
-    "uptimeWeek": "99.69%",
-    "uptimeMonth": "99.69%",
-    "uptimeYear": "99.69%",
-    "time": 136,
-    "timeDay": 136,
-    "timeWeek": 136,
-    "timeMonth": 136,
-    "timeYear": 136,
+    "uptime": "80.13%",
+    "uptimeDay": "80.13%",
+    "uptimeWeek": "80.13%",
+    "uptimeMonth": "80.13%",
+    "uptimeYear": "80.13%",
+    "time": 143,
+    "timeDay": 143,
+    "timeWeek": 143,
+    "timeMonth": 143,
+    "timeYear": 143,
     "dailyMinutesDown": {
-      "2025-04-18": 0
+      "2025-04-18": 17
     }
   }
 ]
