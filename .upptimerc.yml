@@ -34,7 +34,7 @@ status-website:
     - title: Incidents
       href: https://github.com/$OWNER/$REPO/issues
 
-runner: "[ubuntu-latest]"
+runner: "[self-hosted]"
 
 workflowSchedule:
   graphs: "0 0 * * *"
@@ -43,7 +43,7 @@ workflowSchedule:
   summary: "0 0 * * *"
   updateTemplate: "0 0 * * *"
   updates: "0 3 * * *"
-  uptime: "*/6 * * * *"
+  uptime: "*/5 * * * *"
   
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
