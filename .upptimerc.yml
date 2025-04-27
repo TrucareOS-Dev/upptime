@@ -3,8 +3,6 @@ owner: TrucareOS-Dev # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
   - name: Live
     url: $SECRET_SITE_LIVE
   - name: Prod C
@@ -24,7 +22,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.gettrucare.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: assets/tc-logo.jpeg
   name: Get Trucare
   introTitle: "**Your dedicated Revenue Cycle team"
   introMessage: Medical billing, credentialing, and A/R management for growing healthcare businesses. Rates as low as 2.49%
