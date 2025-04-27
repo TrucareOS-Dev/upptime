@@ -23,7 +23,7 @@ status-website:
   cname: status.gettrucare.com
   # baseUrl: /your-repo-name
   # logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  logoUrl: assets/tc-logo.jpeg
+  logoUrl: https://raw.githubusercontent.com/TrucareOS-Dev/upptime/master/assets/tc-logo.jpeg
   name: Get Trucare
   introTitle: "**Your dedicated Revenue Cycle team"
   introMessage: Medical billing, credentialing, and A/R management for growing healthcare businesses. Rates as low as 2.49%
