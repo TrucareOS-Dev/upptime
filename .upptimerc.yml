@@ -9,8 +9,6 @@ sites:
     url: $SECRET_SITE_PROD_C
   - name: Prod T
     url: $SECRET_SITE_PROD_T
-  - name: Staging T
-    url: $SECRET_SITE_STAGING_T
 
 assignees:
   - devtrucarebilling
