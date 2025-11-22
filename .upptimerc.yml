@@ -33,7 +33,7 @@ status-website:
     - title: Incidents
       href: https://github.com/$OWNER/$REPO/issues
 
-runner: "[ubuntu-latest]"
+runner: "[self-hosted]"
 
 workflowSchedule:
   graphs: "0 0 * * *"
