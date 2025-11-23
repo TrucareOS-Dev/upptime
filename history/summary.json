@@ -79,17 +79,19 @@
     "url": "$SECRET_SITE_DEV_EOB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dev-eob",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 137,
-    "timeDay": 137,
-    "timeWeek": 137,
-    "timeMonth": 137,
-    "timeYear": 137,
-    "dailyMinutesDown": {}
+    "status": "up",
+    "uptime": "33.22%",
+    "uptimeDay": "33.22%",
+    "uptimeWeek": "33.22%",
+    "uptimeMonth": "33.22%",
+    "uptimeYear": "33.22%",
+    "time": 125,
+    "timeDay": 125,
+    "timeWeek": 125,
+    "timeMonth": 125,
+    "timeYear": 125,
+    "dailyMinutesDown": {
+      "2025-11-23": 19
+    }
   }
 ]
