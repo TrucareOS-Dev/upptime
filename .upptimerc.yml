@@ -9,6 +9,9 @@ sites:
     url: $SECRET_SITE_PROD_C
   - name: Prod T
     url: $SECRET_SITE_PROD_T
+  - name: Dev EOB
+    url: $SECRET_SITE_DEV_EOB
+    
 
 assignees:
   - devtrucarebilling
