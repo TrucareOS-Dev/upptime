@@ -13,12 +13,12 @@ sites:
     url: $SECRET_SITE_PROD_AUTH
     expectedStatusCodes:
       - 401
-  - name: Prod TASK
-    url: $SECRET_SITE_PROD_TASK
-    expectedStatusCodes:
-      - 401
   - name: Prod COMMON
     url: $SECRET_SITE_PROD_COMMON
+    expectedStatusCodes:
+      - 401
+  - name: Prod STEP
+    url: $SECRET_SITE_PROD_STEP
     expectedStatusCodes:
       - 401
   - name: Prod PMS
