@@ -1,7 +1,7 @@
 url: $SECRET_SITE_DEV_EOB
-status: down
-code: 503
-responseTime: 156
-lastUpdated: 2025-11-23T23:53:50.981Z
+status: up
+code: 200
+responseTime: 102
+lastUpdated: 2025-11-24T00:00:15.333Z
 startTime: 2025-11-23T22:29:38.620Z
 generator: Upptime <https://github.com/upptime/upptime>
