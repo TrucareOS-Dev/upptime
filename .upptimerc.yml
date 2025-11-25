@@ -27,8 +27,6 @@ sites:
       - 401
   - name: Prod EOB
     url: $SECRET_SITE_PROD_EOB
-  - name: Dev EOB
-    url: $SECRET_SITE_DEV_EOB
     
 assignees:
   - devtrucarebilling
