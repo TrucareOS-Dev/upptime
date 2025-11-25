@@ -33,8 +33,6 @@ sites:
 assignees:
   - devtrucarebilling
    
-skipDeleteIssues: true
-
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
@@ -48,10 +46,6 @@ status-website:
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
-    - title: Incidents
-      href: https://github.com/$OWNER/$REPO/issues
 
 runner: "[self-hosted]"
 
