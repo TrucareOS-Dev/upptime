@@ -22,19 +22,19 @@
     "url": "$SECRET_SITE_PROD_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-c",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 285,
-    "timeDay": 2148,
-    "timeWeek": 704,
-    "timeMonth": 265,
-    "timeYear": 285,
+    "time": 286,
+    "timeDay": 1615,
+    "timeWeek": 685,
+    "timeMonth": 273,
+    "timeYear": 286,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   },
   {
@@ -42,19 +42,19 @@
     "url": "$SECRET_SITE_PROD_T",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-t",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 204,
-    "timeDay": 141,
-    "timeWeek": 123,
-    "timeMonth": 122,
+    "timeDay": 127,
+    "timeWeek": 120,
+    "timeMonth": 121,
     "timeYear": 204,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   },
   {
@@ -80,19 +80,19 @@
     "url": "$SECRET_SITE_PROD_COMMON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-common",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.73%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 111,
-    "timeDay": 119,
-    "timeWeek": 112,
-    "timeMonth": 111,
-    "timeYear": 111,
+    "time": 114,
+    "timeDay": 168,
+    "timeWeek": 131,
+    "timeMonth": 116,
+    "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   },
   {
@@ -100,19 +100,19 @@
     "url": "$SECRET_SITE_PROD_STEP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-task",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 113,
-    "timeDay": 107,
-    "timeWeek": 111,
-    "timeMonth": 114,
-    "timeYear": 113,
+    "time": 115,
+    "timeDay": 146,
+    "timeWeek": 125,
+    "timeMonth": 118,
+    "timeYear": 115,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   },
   {
@@ -120,19 +120,19 @@
     "url": "$SECRET_SITE_PROD_PMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-pms",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 108,
-    "timeWeek": 115,
-    "timeMonth": 115,
-    "timeYear": 117,
+    "time": 119,
+    "timeDay": 154,
+    "timeWeek": 132,
+    "timeMonth": 119,
+    "timeYear": 119,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   },
   {
@@ -140,19 +140,19 @@
     "url": "$SECRET_SITE_PROD_EOB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-eob",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.72%",
+    "uptimeWeek": "99.96%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 104,
-    "timeDay": 107,
+    "timeDay": 106,
     "timeWeek": 104,
     "timeMonth": 102,
     "timeYear": 104,
     "dailyMinutesDown": {
-      "2026-01-18": 0
+      "2026-01-18": 4
     }
   }
 ]
