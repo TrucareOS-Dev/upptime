@@ -24,18 +24,16 @@
     "slug": "prod-c",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 286,
     "timeDay": 1615,
     "timeWeek": 685,
     "timeMonth": 273,
     "timeYear": 286,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod T",
@@ -44,18 +42,16 @@
     "slug": "prod-t",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 204,
     "timeDay": 127,
     "timeWeek": 120,
     "timeMonth": 121,
     "timeYear": 204,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod AUTH",
@@ -82,18 +78,16 @@
     "slug": "prod-common",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.73%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
     "timeDay": 168,
     "timeWeek": 131,
     "timeMonth": 116,
     "timeYear": 114,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod TASK",
@@ -102,18 +96,16 @@
     "slug": "prod-task",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 115,
     "timeDay": 146,
     "timeWeek": 125,
     "timeMonth": 118,
     "timeYear": 115,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod PMS",
@@ -122,18 +114,16 @@
     "slug": "prod-pms",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 119,
     "timeDay": 154,
     "timeWeek": 132,
     "timeMonth": 119,
     "timeYear": 119,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Prod EOB",
@@ -142,17 +132,15 @@
     "slug": "prod-eob",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 104,
     "timeDay": 106,
     "timeWeek": 104,
     "timeMonth": 102,
     "timeYear": 104,
-    "dailyMinutesDown": {
-      "2026-01-18": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
