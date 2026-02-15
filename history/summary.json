@@ -22,10 +22,10 @@
     "url": "$SECRET_SITE_PROD_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-c",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 275,
@@ -33,17 +33,19 @@
     "timeWeek": 160,
     "timeMonth": 288,
     "timeYear": 275,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 1
+    }
   },
   {
     "name": "Prod T",
     "url": "$SECRET_SITE_PROD_T",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-t",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 196,
@@ -51,17 +53,19 @@
     "timeWeek": 113,
     "timeMonth": 113,
     "timeYear": 196,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 1
+    }
   },
   {
     "name": "Prod AUTH",
     "url": "$SECRET_SITE_PROD_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 114,
@@ -69,16 +73,18 @@
     "timeWeek": 122,
     "timeMonth": 119,
     "timeYear": 114,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 1
+    }
   },
   {
     "name": "Prod COMMON",
     "url": "$SECRET_SITE_PROD_COMMON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-common",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -87,52 +93,58 @@
     "timeWeek": 134,
     "timeMonth": 131,
     "timeYear": 118,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "Prod TASK",
     "url": "$SECRET_SITE_PROD_STEP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-task",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 117,
-    "timeDay": 113,
-    "timeWeek": 120,
-    "timeMonth": 125,
-    "timeYear": 117,
-    "dailyMinutesDown": {}
+    "time": 128,
+    "timeDay": 616,
+    "timeWeek": 245,
+    "timeMonth": 153,
+    "timeYear": 128,
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "Prod PMS",
     "url": "$SECRET_SITE_PROD_PMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-pms",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 122,
-    "timeDay": 113,
-    "timeWeek": 126,
-    "timeMonth": 132,
+    "timeDay": 109,
+    "timeWeek": 123,
+    "timeMonth": 131,
     "timeYear": 122,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   },
   {
     "name": "Prod EOB",
     "url": "$SECRET_SITE_PROD_EOB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-eob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -141,6 +153,8 @@
     "timeWeek": 109,
     "timeMonth": 113,
     "timeYear": 107,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-02-15": 0
+    }
   }
 ]
