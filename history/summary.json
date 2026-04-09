@@ -4,7 +4,7 @@
     "url": "$SECRET_SITE_LIVE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "live",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 217,
     "timeMonth": 170,
     "timeYear": 216,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-04-09": 0
+    }
   },
   {
     "name": "Prod C",
