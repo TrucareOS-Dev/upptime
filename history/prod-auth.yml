@@ -1,7 +1,7 @@
 url: $SECRET_SITE_PROD_AUTH
 status: up
 code: 401
-responseTime: 252
-lastUpdated: 2026-06-02T23:29:33.221Z
+responseTime: 209
+lastUpdated: 2026-06-03T23:29:31.456Z
 startTime: 2025-11-23T23:47:13.362Z
 generator: Upptime <https://github.com/upptime/upptime>
