@@ -33,11 +33,11 @@
     "url": "$SECRET_SITE_PROD_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-c",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.09%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
+    "uptimeMonth": "99.08%",
     "uptimeYear": "99.92%",
     "time": 243,
     "timeDay": 423,
@@ -45,7 +45,8 @@
     "timeMonth": 160,
     "timeYear": 222,
     "dailyMinutesDown": {
-      "2026-05-29": 400
+      "2026-05-29": 400,
+      "2026-06-18": 2
     }
   },
   {
@@ -53,10 +54,10 @@
     "url": "$SECRET_SITE_PROD_T",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-t",
-    "status": "up",
+    "status": "down",
     "uptime": "99.94%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.90%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.11%",
     "uptimeYear": "99.93%",
     "time": 174,
@@ -65,7 +66,8 @@
     "timeMonth": 105,
     "timeYear": 163,
     "dailyMinutesDown": {
-      "2026-05-29": 388
+      "2026-05-29": 388,
+      "2026-06-18": 1
     }
   },
   {
@@ -73,10 +75,10 @@
     "url": "$SECRET_SITE_PROD_AUTH",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-auth",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.12%",
     "uptimeYear": "99.87%",
     "time": 114,
@@ -85,7 +87,8 @@
     "timeMonth": 100,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2026-05-29": 384
+      "2026-05-29": 384,
+      "2026-06-18": 1
     }
   },
   {
@@ -93,11 +96,11 @@
     "url": "$SECRET_SITE_PROD_COMMON",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-common",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.14%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.13%",
     "uptimeYear": "99.87%",
     "time": 117,
     "timeDay": 71,
@@ -105,7 +108,8 @@
     "timeMonth": 87,
     "timeYear": 117,
     "dailyMinutesDown": {
-      "2026-05-29": 379
+      "2026-05-29": 379,
+      "2026-06-18": 1
     }
   },
   {
@@ -113,10 +117,10 @@
     "url": "$SECRET_SITE_PROD_STEP",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-task",
-    "status": "up",
+    "status": "down",
     "uptime": "99.87%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.15%",
     "uptimeYear": "99.87%",
     "time": 207,
@@ -125,7 +129,8 @@
     "timeMonth": 689,
     "timeYear": 207,
     "dailyMinutesDown": {
-      "2026-05-29": 374
+      "2026-05-29": 374,
+      "2026-06-18": 1
     }
   },
   {
@@ -133,10 +138,10 @@
     "url": "$SECRET_SITE_PROD_PMS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-pms",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.16%",
     "uptimeYear": "99.88%",
     "time": 122,
@@ -145,7 +150,8 @@
     "timeMonth": 105,
     "timeYear": 122,
     "dailyMinutesDown": {
-      "2026-05-29": 369
+      "2026-05-29": 369,
+      "2026-06-18": 1
     }
   },
   {
@@ -153,9 +159,9 @@
     "url": "$SECRET_SITE_PROD_EOB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-eob",
-    "status": "up",
+    "status": "down",
     "uptime": "99.88%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.17%",
     "uptimeYear": "99.88%",
@@ -165,7 +171,8 @@
     "timeMonth": 81,
     "timeYear": 109,
     "dailyMinutesDown": {
-      "2026-05-29": 364
+      "2026-05-29": 364,
+      "2026-06-18": 0
     }
   }
 ]
