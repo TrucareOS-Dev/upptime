@@ -22,18 +22,20 @@
     "url": "$SECRET_SITE_PROD_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-c",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 227,
-    "timeDay": 89,
-    "timeWeek": 91,
-    "timeMonth": 105,
-    "timeYear": 193,
-    "dailyMinutesDown": {}
+    "time": 234,
+    "timeDay": 2111,
+    "timeWeek": 596,
+    "timeMonth": 223,
+    "timeYear": 203,
+    "dailyMinutesDown": {
+      "2026-08-23": 1
+    }
   },
   {
     "name": "Prod T",
