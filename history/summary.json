@@ -22,36 +22,40 @@
     "url": "$SECRET_SITE_PROD_C",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-c",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 231,
-    "timeDay": 57,
-    "timeWeek": 164,
-    "timeMonth": 280,
+    "timeDay": 61,
+    "timeWeek": 85,
+    "timeMonth": 275,
     "timeYear": 192,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-20": 1
+    }
   },
   {
     "name": "Prod T",
     "url": "$SECRET_SITE_PROD_T",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-t",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
     "timeDay": 43,
-    "timeWeek": 51,
-    "timeMonth": 64,
-    "timeYear": 123,
-    "dailyMinutesDown": {}
+    "timeWeek": 45,
+    "timeMonth": 63,
+    "timeYear": 122,
+    "dailyMinutesDown": {
+      "2026-09-20": 1
+    }
   },
   {
     "name": "Prod AUTH",
@@ -66,7 +70,7 @@
     "uptimeYear": "100.00%",
     "time": 101,
     "timeDay": 44,
-    "timeWeek": 73,
+    "timeWeek": 56,
     "timeMonth": 75,
     "timeYear": 101,
     "dailyMinutesDown": {}
@@ -102,7 +106,7 @@
     "uptimeYear": "100.00%",
     "time": 166,
     "timeDay": 73,
-    "timeWeek": 96,
+    "timeWeek": 71,
     "timeMonth": 78,
     "timeYear": 166,
     "dailyMinutesDown": {}
@@ -120,7 +124,7 @@
     "uptimeYear": "100.00%",
     "time": 105,
     "timeDay": 206,
-    "timeWeek": 89,
+    "timeWeek": 74,
     "timeMonth": 76,
     "timeYear": 105,
     "dailyMinutesDown": {}
@@ -130,17 +134,19 @@
     "url": "$SECRET_SITE_PROD_EOB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-eob",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 96,
-    "timeDay": 67,
-    "timeWeek": 87,
-    "timeMonth": 72,
+    "timeDay": 41,
+    "timeWeek": 83,
+    "timeMonth": 70,
     "timeYear": 96,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2026-09-20": 0
+    }
   }
 ]
