@@ -3,30 +3,20 @@ owner: TrucareOS-Dev # Your GitHub organization or username, where this reposito
 repo: upptime # The name of this repository
 
 sites:
-  - name: Live
-    url: $SECRET_SITE_LIVE
-  - name: Prod C
-    url: $SECRET_SITE_PROD_C
-  - name: Prod T
-    url: $SECRET_SITE_PROD_T
-  - name: Prod AUTH
-    url: $SECRET_SITE_PROD_AUTH
-    expectedStatusCodes:
-      - 401
-  - name: Prod COMMON
-    url: $SECRET_SITE_PROD_COMMON
-    expectedStatusCodes:
-      - 401
-  - name: Prod TASK
-    url: $SECRET_SITE_PROD_STEP
-    expectedStatusCodes:
-      - 401
-  - name: Prod PMS
-    url: $SECRET_SITE_PROD_PMS
-    expectedStatusCodes:
-      - 401
-  - name: Prod EOB
-    url: $SECRET_SITE_PROD_EOB
+  - name: Prod Rev
+    url: $SECRET_SITE_PROD_REV
+  - name: Prod Cred
+    url: $SECRET_SITE_PROD_CRED
+  - name: Prod Connect
+    url: SECRET_SITE_PROD_CONNECT
+  - name: Prod API Docs
+    url: $SECRET_SITE_PROD_API_DOCS
+  - name: Prod Portal
+    url: $SECRET_SITE_PROD_PORTAL
+  - name: Prod Developer Portal
+    url: $SECRET_SITE_PROD_DEVELOPER_PROTAL
+  - name: Prod Admin
+    url: $SECRET_SITE_PROD_ADMIN
     
 assignees:
   - devtrucarebilling
