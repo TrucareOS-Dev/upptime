@@ -8,7 +8,7 @@ sites:
   - name: Prod Cred
     url: $SECRET_SITE_PROD_CRED
   - name: Prod Connect
-    url: SECRET_SITE_PROD_CONNECT
+    url: $SECRET_SITE_PROD_CONNECT
   - name: Prod API Docs
     url: $SECRET_SITE_PROD_API_DOCS
   - name: Prod Portal
