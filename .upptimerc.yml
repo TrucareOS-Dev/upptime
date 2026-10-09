@@ -15,7 +15,7 @@ sites:
     url: $SECRET_SITE_PROD_PORTAL
   - name: Prod Developer Portal
     url: $SECRET_SITE_PROD_DEVELOPER_PROTAL
-  - name: Prod Admin
+  - name: Prod Admin (new)
     url: $SECRET_SITE_PROD_ADMIN
     
 assignees:
