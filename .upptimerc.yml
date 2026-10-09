@@ -35,7 +35,7 @@ status-website:
     - title: Status
       href: /
 
-runner: "[ubuntu-latest]"
+runner: "[hosted]"
 
 workflowSchedule:
   graphs: "0 0 * * *"
