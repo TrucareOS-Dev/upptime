@@ -1,7 +1,7 @@
 url: $SECRET_SITE_PROD_ADMIN
-status: down
-code: 503
-responseTime: 156
-lastUpdated: 2026-11-08T14:42:38.942Z
+status: up
+code: 200
+responseTime: 201
+lastUpdated: 2026-11-08T14:49:42.477Z
 startTime: 2026-10-09T14:07:41.001Z
 generator: Upptime <https://github.com/upptime/upptime>
