@@ -4,19 +4,19 @@
     "url": "$SECRET_SITE_PROD_REV",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-rev",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
-    "time": 289,
-    "timeDay": 284,
-    "timeWeek": 287,
-    "timeMonth": 301,
-    "timeYear": 289,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.41%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 410,
+    "timeDay": 2833,
+    "timeWeek": 924,
+    "timeMonth": 451,
+    "timeYear": 410,
     "dailyMinutesDown": {
-      "2026-11-08": 4
+      "2026-11-08": 9
     }
   },
   {
@@ -42,36 +42,40 @@
     "url": "$SECRET_SITE_PROD_CONNECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 266,
-    "timeDay": 227,
-    "timeWeek": 277,
-    "timeMonth": 274,
-    "timeYear": 266,
-    "dailyMinutesDown": {}
+    "time": 263,
+    "timeDay": 172,
+    "timeWeek": 257,
+    "timeMonth": 270,
+    "timeYear": 263,
+    "dailyMinutesDown": {
+      "2026-11-08": 1
+    }
   },
   {
     "name": "Prod API Docs",
     "url": "$SECRET_SITE_PROD_API_DOCS",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-api-docs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 316,
-    "timeDay": 216,
-    "timeWeek": 329,
-    "timeMonth": 329,
-    "timeYear": 316,
-    "dailyMinutesDown": {}
+    "time": 311,
+    "timeDay": 166,
+    "timeWeek": 302,
+    "timeMonth": 322,
+    "timeYear": 311,
+    "dailyMinutesDown": {
+      "2026-11-08": 1
+    }
   },
   {
     "name": "Prod Portal",
@@ -96,35 +100,39 @@
     "url": "$SECRET_SITE_PROD_DEVELOPER_PROTAL",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-developer-portal",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 216,
-    "timeDay": 161,
-    "timeWeek": 219,
-    "timeMonth": 222,
-    "timeYear": 216,
-    "dailyMinutesDown": {}
+    "time": 214,
+    "timeDay": 139,
+    "timeWeek": 206,
+    "timeMonth": 219,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   },
   {
     "name": "Prod Admin (new)",
     "url": "$SECRET_SITE_PROD_ADMIN",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-admin-new",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 196,
-    "timeWeek": 204,
-    "timeMonth": 198,
-    "timeYear": 198,
-    "dailyMinutesDown": {}
+    "time": 197,
+    "timeDay": 176,
+    "timeWeek": 198,
+    "timeMonth": 197,
+    "timeYear": 197,
+    "dailyMinutesDown": {
+      "2026-11-08": 0
+    }
   }
 ]
