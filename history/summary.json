@@ -40,18 +40,20 @@
     "url": "$SECRET_SITE_PROD_CONNECT",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "prod-connect",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 346,
-    "timeWeek": 231,
-    "timeMonth": 280,
-    "timeYear": 267,
-    "dailyMinutesDown": {}
+    "time": 264,
+    "timeDay": 249,
+    "timeWeek": 221,
+    "timeMonth": 276,
+    "timeYear": 264,
+    "dailyMinutesDown": {
+      "2026-11-21": 0
+    }
   },
   {
     "name": "Prod API Docs",
